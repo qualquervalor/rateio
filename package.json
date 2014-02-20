@@ -1,0 +1,19 @@
+{
+  "name": "rateio",
+  "version": "0.1.2",
+  "description": "node library to assist with currency exchange rates",
+  "main": "./lib/rateio",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "line-reader": "~0.2.3",
+    "open-exchange-rates": "~0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Qualquer Valor",
+  "license": "ISC"
+}
